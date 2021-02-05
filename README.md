@@ -1,6 +1,10 @@
 # Valine Admin
 
-
+ "engines": {
+-    "node": "6.x"
++    "node": "12.x"
+  }
+}
 
 ## 简介
 
